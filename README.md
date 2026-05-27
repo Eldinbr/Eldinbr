@@ -133,7 +133,7 @@ I'm a data enthusiast with a passion for transforming raw data into actionable i
     <img src="https://img.shields.io/badge/LinkedIn-007ACC?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 <!-- Email -->
-  <a href="[eldinbj@gmail.com]">
+  <a href="eldinbj@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 
